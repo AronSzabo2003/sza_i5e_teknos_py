@@ -4,7 +4,7 @@
   <name>sza_i5e_teknos_py</name>
   <version>0.0.0</version>
   <description>TODO: Package description</description>
-  <maintainer email="todo@todo.com">he</maintainer>
+  <maintainer email="szaboaron2003@gmail.com">he</maintainer>
   <license>GNU General Public License v3.0</license>
 
   <test_depend>ament_copyright</test_depend>

@@ -17,7 +17,7 @@ setup(
     install_requires=['setuptools'],
     zip_safe=True,
     maintainer='todo',
-    maintainer_email='todo@todo.com',
+    maintainer_email='szaboaron2003@gmail.com',
     description='TODO: Package description',
     license='GNU General Public License v3.0',
     tests_require=['pytest'],
